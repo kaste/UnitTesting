@@ -5,7 +5,7 @@
     "deferred": true,
     "legacy_runner": false,
     "verbosity": 2,
-    "capture_console": false,
+    "capture_console": true,
     "reload_package_on_testing": true,
     "start_coverage_after_reload": false,
     "show_reload_progress": true,
